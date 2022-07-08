@@ -1,0 +1,5 @@
+# steps for installation
+
+# node
+nvm install 16.15.1
+
